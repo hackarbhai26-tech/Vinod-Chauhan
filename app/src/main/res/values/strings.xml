@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="accessibility_service_description">Enables JARVIS AI to assist with voice-directed navigation, scrolling, and user-requested system actions upon explicit user command.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI",
+  "description": "Advanced intelligent personal assistant with futuristic dark cyan HUD, voice & gesture controls, smart system actions, and neural conversation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
